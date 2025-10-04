@@ -4,5 +4,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9/refs/heads/main/BRUTON%20HUB%20V0.9%20LUA%202.lua"))()
 --3
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/Fly-by-lucas-/refs/heads/main/Flybylucas.lua"))()
---4
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sukuna355/testeismail333/refs/heads/main/Protected_8660142218887189.lua"))()
