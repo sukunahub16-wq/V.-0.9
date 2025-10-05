@@ -1,4 +1,4 @@
 --1
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9/refs/heads/main/BRUTONHUBv2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9/refs/heads/main/Bruton%20Hub%20v1.lua"))()
 --2
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9/refs/heads/main/BRUTON%20HUB%20V0.9%20LUA%202.lua"))()
